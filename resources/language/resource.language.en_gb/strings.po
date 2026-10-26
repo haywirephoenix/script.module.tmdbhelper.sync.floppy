@@ -1,0 +1,48 @@
+# Kodi Media Center language file
+# Addon Name: TMDbHelper Sync - Floppy
+# Addon id: script.module.tmdbhelper.sync.floppy
+msgid ""
+msgstr ""
+"Project-Id-Version: script.module.tmdbhelper.sync.floppy\n"
+"Report-Msgid-Bugs-To: https://github.com/haywirephoenix/script.module.tmdbhelper.sync.floppy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Floppy"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Connection"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Floppy server URL"
+msgstr ""
+
+msgctxt "#30003"
+msgid "For example http://localhost:8000. Leave empty to use the address from the Floppy add-on"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Floppy API token"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Floppy, Settings, Integrations, API Token. Leave empty to use the token from the Floppy add-on"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Scrobbling"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Let the Floppy add-on scrobble when its scrobbling is on"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Skips scrobbling from TMDbHelper while plugin.video.floppy sends watch history itself, so plays are not logged twice"
+msgstr ""
